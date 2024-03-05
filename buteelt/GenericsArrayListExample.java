@@ -6,7 +6,7 @@ public class GenericsArrayListExample {
         // Creating an ArrayList of Strings
         List<String> stringList = new ArrayList<>();
         stringList.add("Hello");
-        stringList.add("World");
+        stringList.add("Woorld");
         stringList.add("!");
 
         // Creating an ArrayList of Integers
